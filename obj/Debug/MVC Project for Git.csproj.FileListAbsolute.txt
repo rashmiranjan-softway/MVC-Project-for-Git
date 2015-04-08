@@ -1,0 +1,8 @@
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\obj\Debug\MVC Project for Git.csprojResolveAssemblyReference.cache
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\bin\MVC Project for Git.dll.config
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\bin\MVC Project for Git.dll
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\bin\MVC Project for Git.pdb
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\bin\Microsoft.Web.Infrastructure.dll
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\bin\Microsoft.Web.Infrastructure.xml
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\obj\Debug\MVC Project for Git.dll
+A:\Learning\Projects\Git Test\MVC-Project-for-Git\obj\Debug\MVC Project for Git.pdb
